@@ -1,0 +1,319 @@
+# SINHALA TRANSLATION
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Amila Pasanl<aquire@outlook.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: Labyrinth\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-04 11:45-0700\n"
+"PO-Revision-Date: 2012-09-25 19:57+0000\n"
+"Last-Translator: pat332 <patrick.huynh@free.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../labyrinth_lib/ImageThought.py:68
+msgid "Choose image to insert"
+msgstr "ඇතුළත් කිරීමට පිංතූරයක් තෝරා ගන්න"
+
+#: ../labyrinth_lib/ImageThought.py:322
+msgid "Error loading file"
+msgstr "ගොනුව විවර කළ නොහේ"
+
+#: ../labyrinth_lib/ImageThought.py:323
+#, python-format
+msgid "%s could not be found.  Associated thought will be empty."
+msgstr "%s සොයා ගත නොහේ. සබැදි චිත්තය හිස් වනු ඇ"
+
+#: ../labyrinth_lib/ImageThought.py:338
+msgid "Change Image"
+msgstr "පිංතූරය වෙනස් කරන්න"
+
+#: ../labyrinth_lib/Browser.py:194
+#, python-format
+msgid "Unable to display help: %s"
+msgstr "උදව්ව පෙන්විය නොහැක: %s"
+
+#: ../labyrinth_lib/Browser.py:226
+msgid "Translation by Don Scorgie"
+msgstr "පරිවර්තනය අමිල පසන් විසිනි"
+
+#: ../labyrinth_lib/Browser.py:248
+msgid "The map cannot be deleted right now. Is it open?"
+msgstr "සිතියම මේ මොහොතේ ඉවත් කළ නොහේ. එය විවර ද?"
+
+#: ../labyrinth_lib/Browser.py:250
+msgid "The map has no associated filename."
+msgstr "සිතියමට අදාළ ගොනු නාමයක් නොමැත."
+
+#: ../labyrinth_lib/Browser.py:253
+msgid "Cannot delete this map"
+msgstr "සිතියම ඉවත් කළ නොහේ"
+
+#: ../labyrinth_lib/Browser.py:260
+msgid "Do you really want to delete this Map?"
+msgstr "ඔබට මේ සිතියම ඉවත් කිරීමට ඇත්තටම උවමනා ද?"
+
+#: ../labyrinth_lib/Browser.py:285
+msgid "Open File"
+msgstr "ගොනුව විවර කරන්න"
+
+#: ../labyrinth_lib/Browser.py:289
+msgid "MAPZ Compressed Map (*.mapz)"
+msgstr "MAPZ සංක්ෂිප්ත සිතියම (*.mapz)"
+
+#: ../labyrinth_lib/Browser.py:320
+msgid "Map Name"
+msgstr "සිතියම් නාමය"
+
+#: ../labyrinth_lib/Browser.py:327
+msgid "Last Modified"
+msgstr "අවසන වෙනස් කළ"
+
+#: ../labyrinth_lib/Links.py:265
+msgid "Choose Color"
+msgstr "පාට තෝරන්න"
+
+#: ../labyrinth_lib/Links.py:278
+msgid "Set Color"
+msgstr "පාට යොදන්න"
+
+#: ../labyrinth_lib/MainWindow.py:162 ../labyrinth_lib/MainWindow.py:478
+msgid "Untitled Map"
+msgstr "නම් නොකළ සිතියම"
+
+#: ../labyrinth_lib/MainWindow.py:208
+msgid "File"
+msgstr "ගොනුව"
+
+#: ../labyrinth_lib/MainWindow.py:209
+msgid "Export as Image"
+msgstr "පිංතූයක් ලෙස නිර්යාත කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:210
+msgid "Export your map as an image"
+msgstr "ඔබේ සිතියම පිංතූරයක් ලෙස නිර්යාත කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:211
+msgid "Export Map..."
+msgstr "සිතියම නිර්යාත කරන්න..."
+
+#: ../labyrinth_lib/MainWindow.py:212
+msgid "Export your map as XML"
+msgstr "ඔබේ සිතියම XML ලෙස නිර්යාත කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:214
+msgid "Close the current window"
+msgstr "වත්මන් කවුළුව වසන්න"
+
+#: ../labyrinth_lib/MainWindow.py:215
+msgid "_Edit"
+msgstr "සංස්කරණ_ය කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:216
+msgid "_View"
+msgstr "පෙනු_ම"
+
+#: ../labyrinth_lib/MainWindow.py:217
+msgid "_Toolbar"
+msgstr "ආවු_ද "
+
+#: ../labyrinth_lib/MainWindow.py:226
+msgid "Link Thoughts"
+msgstr "චිත්තයන් සම්බන්ධ කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:227
+msgid "Link the selected thoughts"
+msgstr "තෝරන ලද චිත්තයන් සම්බන්ධ කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:228
+msgid "_Mode"
+msgstr "_අයුර"
+
+#: ../labyrinth_lib/MainWindow.py:236
+msgid "_Edit Mode"
+msgstr "සංස්කරණ අයු_ර"
+
+#: ../labyrinth_lib/MainWindow.py:237
+msgid "Turn on edit mode"
+msgstr "සංස්කරණ අයුර සංවෘත කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:238
+msgid "_Add Image"
+msgstr "පිංතූරය එකතු කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:239
+msgid "Add an image to selected thought"
+msgstr "පිංතූරය තෝරන ලද චිත්තයට එකතු කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:240
+msgid "_Drawing Mode"
+msgstr "සිතු_වම් අයුර"
+
+#: ../labyrinth_lib/MainWindow.py:241
+msgid "Make a pretty drawing"
+msgstr "ලස්සන සිතුවමක් හදන්න"
+
+#: ../labyrinth_lib/MainWindow.py:243
+msgid "Use _Curves"
+msgstr "ව_ක යොදන්න"
+
+#: ../labyrinth_lib/MainWindow.py:244
+msgid "Use curves as links"
+msgstr "වක සබැදි ලෙස යොදන්න"
+
+#: ../labyrinth_lib/MainWindow.py:245
+msgid "Use _Lines"
+msgstr "රේඛා භාවි_ත කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:246
+msgid "Use straight lines as links"
+msgstr "සබැදි ලෙස රේඛා භාවිත කරන්න"
+
+#: ../labyrinth_lib/MainWindow.py:248
+msgid "_Extended Information"
+msgstr "තොරතුරු දිගුව"
+
+#: ../labyrinth_lib/MainWindow.py:249
+msgid "Show extended information for thoughts"
+msgstr "චිත්තයන් සදහා තොරතුරු දිගුව පෙන්වන්න"
+
+#: ../labyrinth_lib/MainWindow.py:250
+msgid "_Main"
+msgstr "මූලික"
+
+#: ../labyrinth_lib/MainWindow.py:251
+msgid "Show main toolbar"
+msgstr "මූලික ආවුද පෙන්වන්න"
+
+#: ../labyrinth_lib/MainWindow.py:252
+msgid "_Format"
+msgstr "ආකෘතිය"
+
+#: ../labyrinth_lib/MainWindow.py:253
+msgid "Show format toolbar"
+msgstr "ආකෘති ආවුද පෙන්වන්න"
+
+#: ../labyrinth_lib/MainWindow.py:533
+msgid "Save File As"
+msgstr "ගොනුව ගබඩා කරන්න..."
+
+#: ../labyrinth_lib/MainWindow.py:627
+msgid "All Files"
+msgstr "සියළු ගොනු"
+
+#: ../labyrinth_lib/MainWindow.py:628
+msgid "PNG Image (*.png)"
+msgstr "සිතුවම PNG (*.png)"
+
+#: ../labyrinth_lib/MainWindow.py:629
+msgid "JPEG Image (*.jpg, *.jpeg)"
+msgstr "සිතුවම JPEG (*.jpg, *.jpeg)"
+
+#: ../labyrinth_lib/MainWindow.py:630
+msgid "SVG Vector Image (*.svg)"
+msgstr "සිතුවම දෛශික SVG (*.svg)"
+
+#: ../labyrinth_lib/MainWindow.py:631
+msgid "PDF Portable Document (*.pdf)"
+msgstr "Document pdf (*.pdf)"
+
+#: ../labyrinth_lib/MainWindow.py:669
+msgid "Unknown file format"
+msgstr "අඥාත ගොනු වර්ගයකි"
+
+#: ../labyrinth_lib/MainWindow.py:670
+#, python-format
+msgid ""
+"The file type '%s' is unsupported.  Please use the suffix '.png', '.jpg' or "
+"'.svg'."
+msgstr ""
+"'%s' ගොනු වර්ගයට සහාය නොදේ. කරුණාකර, පහතින් යමක් තෝරා ගන්න: "
+"'.png', '.jpg' ou '.svg'."
+
+#: ../labyrinth_lib/ResourceThought.py:128
+msgid "Edit Text"
+msgstr "වදන් සංස්කරණය කරන්න"
+
+#: ../labyrinth_lib/ResourceThought.py:133
+msgid "Edit URI"
+msgstr "URI සංස්කරණය කරන්න"
+
+#: ../labyrinth_lib/DrawingThought.py:65
+#, python-format
+msgid "Drawing #%d"
+msgstr "සිතුවම #%d"
+
+#: ../data/labyrinth.glade:7
+msgid "Export Map as Image"
+msgstr "පිංතූයක් ලෙස සිතියම නිර්යාත කරන්න"
+
+#: ../data/labyrinth.glade:87
+msgid "Complete Map"
+msgstr "සිතියම සම්පූර්ණ කරන්න"
+
+#: ../data/labyrinth.glade:101
+msgid "Visible Area"
+msgstr "පෙනෙන පෙදස"
+
+#: ../data/labyrinth.glade:157
+msgid "Width"
+msgstr "පළල"
+
+#: ../data/labyrinth.glade:172
+msgid "Height"
+msgstr "උස"
+
+#: ../data/labyrinth.glade:226
+msgid "<b>Export Map</b>"
+msgstr "<b>සිතියම නිර්යාත කරන්න</b>"
+
+#: ../data/labyrinth.glade:245
+msgid "Labyrinth Maps"
+msgstr "Labyrinth සිතියම්"
+
+#: ../data/labyrinth.glade:259
+msgid "_File"
+msgstr "ගොනුව"
+
+#: ../data/labyrinth.glade:299
+msgid "Import..."
+msgstr "ආයාත කරන්න..."
+
+#: ../data/labyrinth.glade:329
+msgid "_Help"
+msgstr "_උදව්ව"
+
+#: ../data/labyrinth.glade:765
+msgid "URL"
+msgstr "URL"
+
+#: ../data/labyrinth.glade:806
+msgid "Align Left"
+msgstr "වමට බර කරන්න"
+
+#: ../data/labyrinth.glade:825
+msgid "Align Right"
+msgstr "දකුණට බර කරන්න"
+
+#: ../data/labyrinth.glade:844
+msgid "Align Vertical Center"
+msgstr "මැදට බර කරන්න"
+
+#: ../data/labyrinth.glade:863
+msgid "Align Top"
+msgstr "ඉහළට බර කරන්න"
+
+#: ../data/labyrinth.glade:882
+msgid "Align Bottom"
+msgstr "පහළට බර කරන්න"
+
+#: ../data/labyrinth.glade:901
+msgid "Align Horizontal Center"
+msgstr "තිරස් මධ්‍යයට බර කරන්න"
